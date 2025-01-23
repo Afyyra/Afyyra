@@ -3,7 +3,6 @@
 - 🌱 I’m currently learning Computer Science (Graphic and Mutimedia Software) at UTM
 - 📫 You can reach me via email
 - 😄 Pronouns: she/her
-- ⚡ Fun fact: 
 
 <!---
 Afyyra/Afyyra is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
