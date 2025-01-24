@@ -6,7 +6,7 @@
 
 ## Skill
 <p align="center">
-  <a href="https://skillicons.dev">
+  <a href="https://www.oracle.com/my/java/">
     <img src="https://skillicons.dev/icons?i=java,cpp,vscode" />
   </a>
 </p>
