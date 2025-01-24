@@ -5,11 +5,16 @@
 - 📫 You can reach me via elisa.afyyra@gmail.com
 
 ## Skill
-[![My Skills](https://skillicons.dev/icons?i=java,cpp,vscode)](https://skillicons.dev)
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=java,cpp,vscode" />
+  </a>
+</p>
 
 
 ## Badges
-![Afyyra's GitHub stats](https://github-readme-stats.vercel.app/api?username=Afyyra&show_icons=true&theme=tokyonight)
+![Afyyra's GitHub stats](https://github-readme-stats.vercel.app/api?username=Afyyra&show_icons=true&theme=tokyonight) 
+ 
 <!---
 Afyyra/Afyyra is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
