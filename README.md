@@ -11,7 +11,7 @@
 
  
 ## Badges
-
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Afyyra)](https://git.io/streak-stats)
  
 <!---
 Afyyra/Afyyra is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
