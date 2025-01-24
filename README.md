@@ -1,8 +1,8 @@
 # 👋 Hi, I’m Elisa
 - 🏫 I'm am first year student at Universiti Teknologi Malaysia
-- 🖥  Currently, I am pursuing my degree in Bachelor of Computer Science (Graphic And Multimedia Software) with honour
+- 🖥  Currently, I am pursuing my degree in Bachelor of Computer Science (Graphic And Multimedia Software) with Honours
 - 🎮 I am particularly keen on exploring Virtual Reality and Augmented Reality
-- 📫 You can reach me via elisa.afyyra@gmail.com
+- 📫 You can reach me via elisa.afyyra@gmail.com or nurelisaafira@graduate.utm.my
 
 ## Skill
 <p align="center">
