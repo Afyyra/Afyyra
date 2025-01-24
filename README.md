@@ -12,7 +12,7 @@
  
 ## Summary
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Afyyra&show_icons=true&theme=transparent)
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Afyyra)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Afyyra)](https://git.io/Afyyra/streak-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Afyyra&layout=donut)](https://github.com/Afyyra/github-readme-stats)
  
 <!---
