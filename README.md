@@ -5,14 +5,7 @@
 - 📫 You can reach me via elisa.afyyra@gmail.com
 
 ## Skill
-<p align="center">
-  <a href="https://www.oracle.com/my/java/"
-      <a  href"https://learn.microsoft.com/en-us/cpp/cpp/?view=msvc-170">
-    <img src="https://skillicons.dev/icons?i=java,vscode" />
-     </a>
-  </a>
-</p>
-
+<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="36" height="36" alt="C++" style="max-width: 100%;"><a href="https://www.oracle.com/java/" rel="nofollow"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" style="max-width: 100%;"></a><a href="https://code.visualstudio.com/" rel="nofollow"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode.svg" width="36" height="36" alt="VS Code" style="max-width: 100%;"></a><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/googlecloud-colored.svg" width="36" height="36" alt="Google Cloud" style="max-width: 100%;">
 
 ## Badges
 ![Afyyra's GitHub stats](https://github-readme-stats.vercel.app/api?username=Afyyra&show_icons=true&theme=tokyonight) 
