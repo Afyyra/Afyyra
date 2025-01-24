@@ -5,8 +5,7 @@
 - 📫 You can reach me via elisa.afyyra@gmail.com
 
 ## Skill
-[![image](https://github.com/user-attachments/assets/a19544e6-ca8f-40b9-8bfd-8e4289f6e8e7)
-](https://www.oracle.com/my/java/)
+[![My Skills](https://skillicons.dev/icons?i=java,cpp,vscode)](https://skillicons.dev)
 
 
 ## Badges
