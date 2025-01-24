@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Elisa
-- 🏫 Im am first year student at Universiti Teknologi Malaysia
+- 🏫 I'm am first year student at Universiti Teknologi Malaysia
 - 🖥  Currently, I am pursuing my degree in Bachelor of Computer Science (Graphic And Multimedia Software) with honour
-- 🎮 I am paticularly keen on exploring Virtual Reality and Augmented Reality
+- 🎮 I am particularly keen on exploring Virtual Reality and Augmented Reality
 - 📫 You can reach me via elisa.afyyra@gmail.com
 
 <!---
