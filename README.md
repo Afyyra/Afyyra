@@ -7,7 +7,7 @@
 ## Skill
 <p align="center">
   <a href="https://www.oracle.com/my/java/"
-      <a "https://learn.microsoft.com/en-us/cpp/cpp/?view=msvc-170">
+      <a  href"https://learn.microsoft.com/en-us/cpp/cpp/?view=msvc-170">
     <img src="https://skillicons.dev/icons?i=java,vscode" />
      </a>
   </a>
