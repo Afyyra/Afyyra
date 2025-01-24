@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @Afyyra
-- 👀 I’m interested in Virtual Reality and Augmented Reality 
-- 🌱 I’m currently learning Computer Science (Graphic and Mutimedia Software) at UTM
-- 📫 You can reach me via email
-- 😄 Pronouns: she/her
+- 👋 Hi, I’m Elisa
+- 🏫 Im am first year student at Universiti Teknologi Malaysia
+- 🖥  Currently, I am pursuing my degree in Bachelor of Computer Science (Graphic And Multimedia Software) with honour
+- 🎮 I am paticularly keen on exploring Virtual Reality and Augmented Reality
+- 📫 You can reach me via elisa.afyyra@gmail.com
 
 <!---
 Afyyra/Afyyra is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
